@@ -1,6 +1,8 @@
 
 # Voice Control Older/Lower end WebOS TV's with python!
-Python version > 3.11 from my testing doesn't work. I used 3.7.6 in development, so I'd recommend the same -> pyenv install 3.7.6 && pyenv local 3.7.6 && python -m venv env
+Python version > 3.11 from my testing doesn't work due to ssl and wrap_socket. I used 3.7.6 in development, so I'd recommend the same -> pyenv install 3.7.6 && pyenv local 3.7.6 && python -m venv env
+Read requirements.txt - i think the only troublesome one was PyAudio - visit: https://pypi.org/project/PyAudio/0.2.12/ download your OS/system version and install with pip inside your venv and will be golden.
+
 
 If anyone is in the habbit of losing their remote or not having your mobile handy to remote control it that way, this might be for you. 
 
