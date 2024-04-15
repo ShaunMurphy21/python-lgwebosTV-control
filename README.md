@@ -10,7 +10,7 @@ Read requirements.txt - i think the only troublesome one was PyAudio - visit: ht
 
 If anyone is in the habbit of losing their remote or not having your mobile handy to remote control it that way, this might be for you. 
 
-Very simple to use, just edit the file and change ```client = WebOSClient("192.168.1.137", secure=True)``` to your TV's ip address (can either be found in your TV settings or through router panel) accept the prompts on your TV screen and your golden. 
+Very simple to use, just edit the file and change ```client = WebOSClient("192.168.1.137", secure=True)``` to your TV's ip address (can either be found in your TV settings or through router panel) accept the prompts on your TV screen and good to go. 
 
 I'm not entirely sure how long the client key lasts unfortunately so that could become a pain. I'd assume it's definitely over 24 hours though. 
 
