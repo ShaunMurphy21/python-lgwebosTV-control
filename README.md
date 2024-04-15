@@ -71,4 +71,4 @@ Keyboard 'letters'/buttons can be found at:
 https://github.com/boppreh/keyboard/blob/e277e3f2baf53ee1d7901cbb562f443f8f861b90/keyboard/_canonical_names.py#L12
 
 
-This probably isn't that useful for anyone but me, I've lost my remote and my phone app only works half the time so when I get asked to turn the TV on or turn it down/rewind etc - it's a chore. By keepying this running in the background and only pressing the hotkey when needed it is a literal life saver!
+This probably isn't that useful for anyone but me. Mainly for when I've lost my remote and my phone app only works half the time so when I get asked to turn the TV on or turn it down/rewind etc - it's a chore. By keepying this running in the background and only pressing the hotkey when needed it is a literal life saver
