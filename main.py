@@ -1,4 +1,4 @@
-from pywebostv.discovery import *    # Because I'm lazy, don't do this.
+from pywebostv.discovery import *    
 from pywebostv.connection import *
 from pywebostv.controls import *
 import ast
