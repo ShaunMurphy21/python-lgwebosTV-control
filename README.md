@@ -1,5 +1,6 @@
 
 # Voice Control Older/Lower end WebOS TV's with python!
+Python version > 3.11 from my testing doesn't work. I used 3.7.6 in development, so I'd recommend the same -> pyenv install 3.7.6 && pyenv local 3.7.6 && python -m venv env
 
 If anyone is in the habbit of losing their remote or not having your mobile handy to remote control it that way, this might be for you. 
 
